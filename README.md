@@ -1,0 +1,2 @@
+# newsletters
+OpenJustice Newsletters
